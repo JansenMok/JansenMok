@@ -9,4 +9,4 @@ I'm a recent UC Berkeley EECS grad (May 2026) building software at the intersect
 - Fun fact about me: I'm big into JDM car culture, I sim race and shoot car photography in my free time
 - Reach me: [LinkedIn](https://www.linkedin.com/in/jansenmok/) · [Resume](https://raw.githubusercontent.com/JansenMok/JansenMok/main/Jansen%20Mok%20Resume.pdf)
 
-Open to chatting about AI/ML, RTL design, or even car culture, anything in between!
+Open to chatting about RTL design, car culture, or anything in between :)
